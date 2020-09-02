@@ -56,6 +56,8 @@
 
 4. 개발 환경 구성
 
+<img width="739" alt="스크린샷 2020-09-02 오후 10 16 26" src="https://user-images.githubusercontent.com/56299764/91988716-8e6c4d00-ed6a-11ea-903d-2d757176a650.png">
+
 
 
 
